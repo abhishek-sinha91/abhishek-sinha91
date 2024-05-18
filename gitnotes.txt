@@ -1,0 +1,44 @@
+steps for Git--
+
+git install steps -
+
+1. sudo apt-get install git
+
+2. To check whether Git is intalled or not
+
+which git
+
+3. To Initialise git -- git init
+4. To check whether it is initialize or not - .git folder will be visible
+5. Go to your Git branch and copy HTTPS URL from Github portal 
+6. clone the Github url
+
+git clone httpsurl 
+
+7. To check whether repo downloaded in local - ls -lrt 
+Repo will be downloaded to local machine
+
+8. create some file and then save it
+git add filename
+git commit -m "initial commit" filename
+git push origin main
+
+username - abhishek-sinha91(github username)
+pwd - git token id
+Git Token ID -- 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
+
+9. check whether changes appear in Github- 
+
+Quest-- 
+how to push code to another, not to main branch
+if want to push file from outside repo from local -- steps
+
+
+
+
+
+
+
+
+
+
