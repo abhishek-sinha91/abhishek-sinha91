@@ -5,7 +5,6 @@
 - 📫 How to reach me -- kumarsinha91@gmail.com
 - Language and Tools --
 
-aws azure bash circleci css3 docker flask gatsby git grafana html5 java jenkins kubernetes linux mysql nginx photoshop postman selenium spring zapier
 
 <!---
 abhishek-sinha91/abhishek-sinha91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
